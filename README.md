@@ -1,5 +1,5 @@
 <h2> Приветствую, я Егор! <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3eWY1a3dkMjdtdmdyZG10Z3hkYzh6NTNjNDQ5NmFqcWRqeTc1em04bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif" width="50"></h2>
-<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG90bTd0bzljMGczZDA3MnpqdWV1bGJuaGJnMWRxM2M2Y21uYXJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="200">
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG90bTd0bzljMGczZDA3MnpqdWV1bGJuaGJnMWRxM2M2Y21uYXJydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif" width="230">
 <p><em>Студент в <a href="http://www.unb.br">Университетском колледже ВолГУ</a>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80"> Немного больше обо мне...  
