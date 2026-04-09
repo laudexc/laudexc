@@ -11,7 +11,7 @@ const egor = {
   architecture: ["client-server", "microservices (basic understanding)"],
   experience: {
     projects: "пишу небольшие проекты под свои задачи и для практики",
-    systems: "основная рабочая система - Arch Linux, есть опыт настройки Ubuntu Server и развертывания приложений на нём"
+    systems: "опыт работы с UNIX-системами, есть практика развертывания приложений на Ubuntu Server"
   },
   learning: "углубляю знания в backend-разработке",
   note: "open to work, быстро осваиваю новые технологии"
