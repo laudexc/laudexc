@@ -6,9 +6,10 @@
 
 ```javascript
 const egor = {
-  code: [Golang, JavaScript, SQL],
-  tools: [Git, GitLab, Docker, REST API, Linux],
-  architecture: ["client-server", "microservices (basic understanding)"],
+  code: ["Golang", "SQL"],
+  tools: ["Git", "GitLab", "Docker"],
+  technologies: ["Linux", "PostgreSQL", "HTTP"],
+  architecture: ["client-server", "REST API", "microservices (basic understanding)"],
   experience: {
     projects: "пишу небольшие проекты под свои задачи и для практики",
     systems: "опыт работы с UNIX-системами, есть практика развертывания приложений на Ubuntu Server"
