@@ -22,6 +22,6 @@ learning: "углубляю знания в backend-разработке",
 note: "open to work, быстро осваиваю новые технологии"
 ```
 
-<img src="https://giphy.com/gifs/rose-rosa-rosw-Zl7u48zLVFgLpRwq6f" width="60"> <em><b>Открыт к общению и совместным проектам</b>. Если есть интересные идеи или предложения <b>- можем связаться</b> :)</em>
+<img src="https://giphy.com/gifs/rose-rosa-rosw-Zl7u48zLVFgLpRwq6f" width="60"> <em><b>Открыт к общению и совместным проектам</b>. Если есть интересные идеи или предложения - можем связаться</b> :)</em>
 
 ---
