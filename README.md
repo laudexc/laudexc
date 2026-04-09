@@ -7,13 +7,13 @@
 ```javascript
 const egor = {
   code: [Golang, JavaScript, SQL],
-  tools: [Git, GitLab, Docker, Linux, REST API],
+  tools: [Git, GitLab, Docker, REST API, Linux],
   architecture: ["client-server", "microservices (basic understanding)"],
   experience: {
     projects: "пишу небольшие проекты под свои задачи и для практики",
     systems: "опыт работы с UNIX-системами, есть практика развертывания приложений на Ubuntu Server"
   },
-  learning: "углубляю знания в backend-разработке",
+  learning: "углубляю знания в backend технологиях",
   note: "open to work, быстро осваиваю новые технологии"
 };
 ```
