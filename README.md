@@ -6,16 +6,21 @@
 
 ```javascript
 const egor = {
-  code: ["Golang", "SQL"],
-  tools: ["Git", "GitLab", "Docker"],
-  technologies: ["Linux", "PostgreSQL", "HTTP"],
-  architecture: ["client-server", "REST API", "microservices (basic understanding)"],
+  programmingLanguages: ["Golang"],
+  toolsAndTechnologies: ["Git", "GitLab", "Docker"],
+  operatingSystems: ["Linux", "Ubuntu Server"],
+  architectureAndConcepts: [
+    "Client-Server Architecture",
+    "REST API",
+    "Microservices (basic understanding)"
+  ],
   experience: {
-    projects: "пишу небольшие проекты под свои задачи и для практики",
-    systems: "опыт работы с UNIX-системами, есть практика развертывания приложений на Ubuntu Server"
+    projects: "Builds small personal and practice-oriented backend projects",
+    systems:
+      "Hands-on experience with UNIX-like systems; deployed applications on Ubuntu Server"
   },
-  learning: "углубляю знания в backend технологиях",
-  note: "open to work, быстро осваиваю новые технологии"
+  learningFocus: "Improving backend engineering skills",
+  note: "Open to work, quick learner"
 };
 ```
 
