@@ -24,7 +24,7 @@ const egor = {
   note: "Open to work, quick learner"
 };
 ```
-
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV3eWpmZ2N3a2I1eWprbnRleWhubjQ1YTF1cXM0b3kyOG14d2Y3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zl7u48zLVFgLpRwq6f/giphy.gif" width="60"> <em><b>Открыт к общению и совместным проектам. Если есть интересные идеи или предложения - можем связаться</b> :)</em>
+<!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV3eWpmZ2N3a2I1eWprbnRleWhubjQ1YTF1cXM0b3kyOG14d2Y3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zl7u48zLVFgLpRwq6f/giphy.gif" width="60"> -->
+<em><b>Открыт к общению и совместным проектам. Если есть интересные идеи или предложения - можем связаться</b> :)</em>
 
 ---
