@@ -7,24 +7,24 @@
 
 ```javascript
 const egor = {
-  programmingLanguages: ["Golang"],
-  toolsAndTechnologies: ["Git", "GitLab", "Docker"],
-  operatingSystems: ["Linux", "Ubuntu Server"],
-  architectureAndConcepts: [
-    "Client-Server Architecture",
-    "REST API",
-    "Microservices (basic understanding)"
+  role: "Backend Developer",
+  languages: ["Go"],
+  technologies: [
+    "Git",
+    "Docker",
+    "Linux",
+    "Ubuntu Server",
+    "PostgreSQL"
   ],
-  experience: {
-    projects: "Builds small personal and practice-oriented backend projects",
-    systems:
-      "Hands-on experience with UNIX-like systems; deployed applications on Ubuntu Server"
-  },
-  learningFocus: "Improving backend engineering skills",
-  note: "Open to work, quick learner"
+  coreConcepts: [
+    "Client-Server Architecture",
+    "REST API Design",
+    "Microservices Architecture"
+  ],
+  availability: "Open to junior opportunities"
 };
 ```
 <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHV3eWpmZ2N3a2I1eWprbnRleWhubjQ1YTF1cXM0b3kyOG14d2Y3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zl7u48zLVFgLpRwq6f/giphy.gif" width="60"> -->
-<em><b>Открыт к общению и совместным проектам. Если есть интересные идеи или предложения - можем связаться</b> :)</em>
+<em><b>Открыт к общению и совместным проектам. Если есть интересные идеи или предложения - ссылки для связи в профиле</b> :)</em>
 
 ---
